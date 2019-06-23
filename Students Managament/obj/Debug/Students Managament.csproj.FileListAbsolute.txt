@@ -1,0 +1,15 @@
+G:\programyportfolio\Students Managament\Students Managament\bin\Debug\Students Managament.exe.config
+G:\programyportfolio\Students Managament\Students Managament\bin\Debug\Students Managament.exe
+G:\programyportfolio\Students Managament\Students Managament\bin\Debug\Students Managament.pdb
+G:\programyportfolio\Students Managament\Students Managament\bin\Debug\EntityFramework.dll
+G:\programyportfolio\Students Managament\Students Managament\bin\Debug\EntityFramework.SqlServer.dll
+G:\programyportfolio\Students Managament\Students Managament\bin\Debug\EntityFramework.xml
+G:\programyportfolio\Students Managament\Students Managament\bin\Debug\EntityFramework.SqlServer.xml
+G:\programyportfolio\Students Managament\Students Managament\obj\Debug\Students Managament.csprojAssemblyReference.cache
+G:\programyportfolio\Students Managament\Students Managament\obj\Debug\Students_Managament.Properties.Resources.resources
+G:\programyportfolio\Students Managament\Students Managament\obj\Debug\Students_Managament.MainWindow.resources
+G:\programyportfolio\Students Managament\Students Managament\obj\Debug\Students Managament.csproj.GenerateResource.cache
+G:\programyportfolio\Students Managament\Students Managament\obj\Debug\Students Managament.csproj.CoreCompileInputs.cache
+G:\programyportfolio\Students Managament\Students Managament\obj\Debug\Students Managament.csproj.CopyComplete
+G:\programyportfolio\Students Managament\Students Managament\obj\Debug\Students Managament.exe
+G:\programyportfolio\Students Managament\Students Managament\obj\Debug\Students Managament.pdb
